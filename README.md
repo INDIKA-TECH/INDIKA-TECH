@@ -9,13 +9,13 @@ Skills: Python, TensorFlow, PyTorch, FastAPI, GCP, Quantization
 Values: Innovation, collaboration, and impactful solutions
 
 
-## 🔥 Featured Projects
+# 🔥 Featured Projects
 Here are some of my key projects that showcase my skills and passion for AI:
-### [Climet-BERT-Indika](https://github.com/INDIKA-TECH/climet-bert-indika)
+## [Climet-BERT-Indika](https://github.com/INDIKA-TECH/climet-bert-indika)
 A BERT-based model fine-tuned for climate-related text analysis, designed to extract insights from environmental data. This project reflects my expertise in NLP and commitment to sustainability.Key Features: Custom BERT fine-tuning, climate sentiment analysis, scalable text processing.
-### [Deep Learning Facial Emotion Recognition CNN](https://github.com/INDIKA-TECH/Deep_Learning_Facial-Emotion-Recognition_CNN)
+## [Deep Learning Facial Emotion Recognition CNN](https://github.com/INDIKA-TECH/Deep_Learning_Facial-Emotion-Recognition_CNN)
 A convolutional neural network (CNN) for real-time facial emotion recognition, showcasing advanced computer vision techniques.Key Features: Pre-trained CNN models, emotion classification, live video integration.
-### [Portfolio Manager](https://github.com/INDIKA-TECH/portfolio-manager)
+## [Portfolio Manager](https://github.com/INDIKA-TECH/portfolio-manager)
 A AI Agent Driven application for managing investment portfolios, combining financial modeling.Key Features: Real-time portfolio tracking, risk analysis, customizable dashboards.
 
 ## 🚀 Get Involved
