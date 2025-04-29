@@ -1,7 +1,7 @@
-## 🌟 Indika Debnath's GitHub Profile
+# 🌟 Indika Debnath's GitHub Profile
 Hello and welcome to my GitHub profile! I'm Indika Debnath, a passionate AI/ML Engineer dedicated to building innovative solutions using machine learning, deep learning, and data science. My work focuses on transforming ideas into impactful applications, from natural language processing to computer vision. Explore my repositories to see my projects and contributions to the tech community! 🚀
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 I'm an AI/ML engineer with hands-on industry experience in Generative AI, Large Language Models (LLMs), NLP, Deep Learning, Computer Vision, and more. My toolkit includes TensorFlow (Keras), PyTorch, GCP Cloud, FastAPI, MLOps, and Python, combined with strong problem-solving skills, adaptability, and a knack for clear communication. I'm driven by a passion for leveraging technology to solve real-world challenges and continuously learning in the fast-evolving AI landscape.
 
 Expertise: Machine Learning, Deep Learning, NLP, Computer Vision, MLOps
@@ -18,7 +18,7 @@ A convolutional neural network (CNN) for real-time facial emotion recognition, s
 ## [Portfolio Manager](https://github.com/INDIKA-TECH/portfolio-manager)
 A AI Agent Driven application for managing investment portfolios, combining financial modeling.Key Features: Real-time portfolio tracking, risk analysis, customizable dashboards.
 
-## 🚀 Get Involved
+# 🚀 Get Involved
 I love collaborating with the tech community! Here's how you can connect with me:
 
 Explore My Repos: Check out my projects to see what I'm working on.
@@ -26,13 +26,13 @@ Contribute: Feel free to submit pull requests, report issues, or suggest enhance
 Reach Out: Have questions or ideas? Open an issue on my repositories or connect via LinkedIn.
 
 
-## 📬 Contact
+# 📬 Contact
 Want to collaborate or discuss AI/ML projects? You can:
-
+contact debnath.indika@gmail.com or call (201) 423 0730
 Open an issue on any of my repositories.
 Connect with me on LinkedIn for professional inquiries.
 
 
-## 🌍 Why I Code
+# 🌍 Why I Code
 I believe technology can transform lives and solve complex problems. As an AI/ML engineer, I strive to create solutions that are not only innovative but also meaningful. My GitHub is a space where I share my journey, experiments, and contributions to the AI community.
 Thank you for visiting my profile! Let's build the future of AI together. 💻✨
